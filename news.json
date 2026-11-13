@@ -2,13 +2,13 @@
   "version": 1,
   "messages": [
     {
-      "id": "nmwewz8zz1mi",
-      "title": "Test",
-      "text": "Test",
-      "from": "2026-11-13T12:48:00+01:00",
-      "until": "2026-11-16T12:48:00+01:00",
+      "id": "nmwf7eikglib",
+      "title": "test",
+      "text": "test",
+      "from": "2026-11-13T17:40:00+01:00",
+      "until": "2026-11-16T17:40:00+01:00",
       "target": "all",
-      "urgent": true
+      "image": "https:\/\/raw.githubusercontent.com\/Pizzamaster2026\/premiumtv-news\/main\/flyers\/nmwf7eikglib-mwf7ekct.jpg"
     }
   ],
   "contact": {
