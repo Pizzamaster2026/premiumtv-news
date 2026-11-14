@@ -20,5 +20,8 @@
     "versionName": "0.2.0",
     "apkUrl": "https:\/\/github.com\/Pizzamaster2026\/premiumtv-news\/releases\/download\/v0.2.0\/PremiumTV_0.2.0.apk",
     "notes": ""
+  },
+  "tmdb": {
+    "apiKey": "73a1ed52fe91ab26754d4134e01aff4d"
   }
 }
