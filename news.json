@@ -1,6 +1,17 @@
 {
   "version": 1,
-  "messages": [],
+  "messages": [
+    {
+      "id": "nmwvpkvbbldb",
+      "title": "🎄 PremiumTV – Weihnachts-Special 🎁",
+      "text": "🎄 PremiumTV – Weihnachts-Special 🎁\n\nAls Dankeschön für eure Treue haben wir ein besonderes Weihnachtsangebot für euch vorbereitet. ❤️\n\nWir wünschen euch und euren Familien eine wunderschöne Adventszeit!\n\nLiebe Grüße\nEuer PremiumTV-Team 👑",
+      "from": "2026-11-30T06:53:00+01:00",
+      "until": "2026-12-27T06:53:00+01:00",
+      "target": "all",
+      "image": "https:\/\/raw.githubusercontent.com\/Pizzamaster2026\/premiumtv-news\/main\/flyers\/nmwvpkvbbldb-mwvpkyrl.jpg",
+      "repeat": "always"
+    }
+  ],
   "contact": {
     "whatsapp": "+4915213587388",
     "text": "Fragen zum Abo? Schreib mir auf WhatsApp."
